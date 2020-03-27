@@ -1,4 +1,4 @@
-# DiceUsedSwiftUI
+# Dice
 ### Simple dice rolling app used SwiftUI.
 - @State
 
